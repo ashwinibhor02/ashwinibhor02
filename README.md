@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ** Core Java, Advance Java, SpringBoot, Hibernate, JSP, Html, CSS, MySql, Angular**
 
-- 📫 How to reach me **ashwinibhor02@gmail.com**
+- 📫 How to reach me **ashwini02bhor@gmail.com**
 
 - ⚡ Fun fact **I create youtube videos**
 
